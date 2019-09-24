@@ -15,9 +15,6 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-create_an_array = ["I", "Am", "Really", "Learning"]
-create_an_array << "arrays!"
-create_an_array.unshift("wow")
 create_an_array.pop
 end
 
